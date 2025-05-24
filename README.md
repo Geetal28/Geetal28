@@ -44,7 +44,6 @@ I’m open to contributing to or collaborating on:
 
 - 📧 Email: (mailto:geetalkale@gmail.com)
 - 🔗 LinkedIn: https://www.linkedin.com/in/geetal-kale
-- 
 ---
 
 ## 😄 A Little More About Me
