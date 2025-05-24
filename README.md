@@ -55,6 +55,16 @@ I’m open to contributing to or collaborating on:
 
 ---
 
+## 🎯 Interests & Hobbies
+
+When I’m not working with data, I enjoy:
+
+- 🚶‍♀️ Long nature walks and hiking
+- 🎧 Listening to podcasts on tech, science, and entrepreneurship
+- 🌍 Traveling to explore new cultures and perspectives
+
+These interests keep me inspired, creative, and always curious—qualities I bring into every project I work on.
+
 Thank you for visiting my GitHub! ⭐  
 Feel free to explore my repositories and connect with me!
 
