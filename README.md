@@ -4,7 +4,7 @@
 
 ---
 
-I’m a data analyst and aspiring data scientist with over **6 years of professional experience** in data-driven roles, currently pursuing a **Master’s in Data Science at the University of Sussex (UK)**. I specialize in transforming raw data into actionable insights using advanced analytics, machine learning, and NLP techniques.
+I’m a data analyst and aspiring data scientist with over 6 years of professional experience in data-driven roles. I have completed my Master’s in Data Science at the University of Sussex (UK), where I developed strong expertise in transforming raw data into actionable insights using advanced analytics, machine learning, and NLP techniques.
 
 > 🧠 I believe **“Data has the better idea.”** My mission is to turn that idea into real, measurable impact.
 
